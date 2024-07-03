@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: roboto,sans-serif;
+}
+body{
+    background-image: url("images/back-ground-img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.col-to-do-list{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: rgba(237, 13, 184, 0.373);
+}
+.col-to-do-list h1{
+    color: rgb(12, 240, 232);
+    font-weight: 700;
+    padding-top: 2%;
+    padding-bottom: 1%;
+
+}
+.btn{
+    background-color:  rgb(12, 240, 232);
+}
+.container-list{
+    background-color: white;
+    list-style: none;
+}
